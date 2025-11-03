@@ -17,3 +17,7 @@ p {
     background-color: #FFC18D;
 
 }
+p.author {
+    font-size: small;
+    width: 150px;
+}
