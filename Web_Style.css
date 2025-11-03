@@ -7,3 +7,13 @@ h1 {
     color:#A75007;
     text-align: center;
 }
+h3 {color: #D66C14; font-style: italic;
+
+}
+p {
+    border: 3px solid #A75007;
+    padding: 5px;
+    margin: 5px;
+    background-color: #FFC18D;
+
+}
